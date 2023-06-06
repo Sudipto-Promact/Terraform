@@ -14,8 +14,8 @@ terraform {
 
 provider "aws" {
   region     = "ap-south-1"
-  access_key = "AKIA6GBBA2WKGDKWHUMW"
-  secret_key = "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"
+  access_key = "AKIA6GBBA2WWHUMW"
+  secret_key = "0dH9NTwR9/gwPCJgi/p6HMTFzbJE9KETro"
 }
 
 # 2. codes for VPC 
